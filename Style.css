@@ -1,0 +1,311 @@
+@import url(https://fonts.googleapis.com/css?family=Signika+Negative:400,700);
+
+html, body {
+  height:100%;
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 25px;
+}
+
+html {
+  background: url('managementconsulting.jpg') fixed;
+  background-size: 100%;
+}
+
+div {
+  overflow: hidden;
+}
+
+a {
+  color: #322bff;
+  text-decoration: underline;
+  transition: 500ms;
+}
+a:hover {
+  color: #26a1ff;
+}
+
+p {
+  padding: 0 5%;
+}
+
+img {
+  box-shadow: 0px 0px 4px #000;
+}
+
+#header {
+  background: rgba(255, 255, 255, .5);
+  padding: 1%;
+  overflow: hidden;
+  height: 55px;
+}
+#header img {
+  float: left;
+  box-shadow: none;
+}
+#header ul {
+  list-style: none;
+  float: left;
+  padding-left: 10px;
+  margin-top: 15px;
+}
+#header ul li {
+  float: left;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+#companies{
+  height: 100px;
+width: 100px;
+}
+
+h1
+{font-size: 80px;
+color: white;
+
+}
+
+.AGV {
+height: 300px;
+width: 500px;
+}
+
+.AGVrobot {
+height: 300px;
+width: 500px;
+}
+
+.packingline {
+height: 300px;
+width: 500px;
+}
+
+.dellserver {
+height: 300px;
+width: 500px;
+}
+
+.Syncade {
+height: 300px;
+width: 500px;
+}
+
+.Camstar {
+height: 300px;
+width: 500px;
+}
+
+.Eaf {
+height: 300px;
+width: 500px;
+}
+
+.Apf {
+height: 300px;
+width: 500px;
+}
+
+.Emerson {
+height: 100px;
+width: 200px;
+}
+.Novartis {
+height: 100px;
+width: 200px;
+}
+.Strides {
+height: 100px;
+width: 200px;
+}
+.Lonza {
+height: 100px;
+width: 200px;
+}
+.Roche {
+height: 100px;
+width: 200px;
+}
+.Micron {
+height: 100px;
+width: 200px;
+}
+.Infineon {
+height: 100px;
+width: 200px;
+}
+.PMGroup {
+height: 100px;
+width: 200px;
+}
+.Bollore {
+height: 100px;
+width: 200px;
+}
+.REC {
+height: 100px;
+width: 200px;
+}
+.Maersk {
+height: 100px;
+width: 200px;
+}
+.Damco {
+height: 100px;
+width: 200px;
+}
+.JTC {
+height: 100px;
+width: 200px;
+}
+.IFF {
+height: 100px;
+width: 200px;
+}
+.OCBC {
+height: 100px;
+width: 200px;
+}
+.Standard {
+height: 100px;
+width: 200px;
+}
+
+
+.dotnet {
+height: 100px;
+width: 200px;
+}
+
+.HTML {
+height: 100px;
+width: 100px;
+}
+
+.CSS {
+height: 100px;
+width: 100px;
+}
+
+.JS {
+height: 100px;
+width: 100px;
+}
+
+.Csharp {
+height: 100px;
+width: 100px;
+}
+
+.VB {
+height: 100px;
+width: 100px;
+}
+
+
+.MSSQL {
+height: 100px;
+width: 100px;
+}
+
+.OracleDBA {
+height: 100px;
+width: 200px;
+}
+
+.Confluence {
+height: 100px;
+width: 200px;
+}
+
+.Klusa {
+height: 100px;
+width: 200px;
+}
+
+
+.Linux {
+height: 100px;
+width: 100px;
+}
+
+
+.windowsserver2012 {
+height: 100px;
+width: 200px;
+}
+
+.windowsserver2016 {
+height: 100px;
+width: 100px;
+}
+
+.VMware {
+height: 100px;
+width: 200px;
+}
+
+
+
+.nus_eng{
+height: 170px;
+width: 500px;
+}
+
+.fullscreen {
+  height: 95%;
+  position: relative;
+}
+.fullscreen .header {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  text-shadow: 0px 0px 2px #000;
+}
+
+.white {
+  background: #eeeeec;
+  padding: 0 5%;
+}
+.nobg {
+  background: none;
+  padding: 0 5%;
+  color: #fff;
+  text-shadow: 0px 0px 4px #000;
+}
+.semitrans {
+  background: rgba(255, 255, 255, 1);
+  padding: 0 5%;
+}
+.dark {
+  color: #eeeeec;
+  background: #010105;
+  padding: 0 5%;
+}
+
+.nopadding {
+  padding: 0;
+}
+
+.floatleft {
+  float: left;
+  margin: 2%;
+}
+.floatright {
+  float: right;
+  margin 2%;
+}
+
+.more {
+  text-align: center;
+  font-size: 17px;
+}
+.more a {
+  color: #aaa;
+  text-decoration: none;
+  cursor: pointer;
+}
+.more a:hover {
+  color: #777;
+}
